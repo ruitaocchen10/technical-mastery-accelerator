@@ -48,5 +48,9 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+<key>NSCameraUsageDescription</key>
+<string>This app needs camera access to analyze your weightlifting form and provide technique feedback.</string>
+<key>NSMicrophoneUsageDescription</key>
+<string>This app needs microphone access to record video for form analysis.</string>
 </dict>
 </plist>
